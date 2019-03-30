@@ -1,0 +1,49 @@
+﻿body
+{
+	font-family: Verdana, sans-serif;
+	color: #4C4C4C;
+	font-weight: normal;
+	font-size: medium;
+	background-color: #fff;
+}
+
+h1,h2,h3,h4 {
+	font-weight: 500;
+}
+
+h1 {
+	font-size: 1.8em;
+}
+
+h2 {
+	font-size: 1.6em;
+}
+h3 {
+	font-size: 1.4em;
+}
+h4 {
+	font-size: 1.2em;
+}
+
+
+a {
+	color: #6C6C6C;
+	text-decoration: none;
+}
+a:hover {
+	opacity: 0.8;
+	text-decoration: underline;
+}
+
+#wrapper {
+	border: 1px #000 solid;
+	max-width: 2150px;
+	margin: 2em auto;
+	padding: 2em;
+}
+
+input[type="text"] {
+	padding: 0.3em;
+	font-size: 1.4em;
+}
+
